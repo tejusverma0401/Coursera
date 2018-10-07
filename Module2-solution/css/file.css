@@ -32,7 +32,7 @@ h1 {
 }
 
 #sushi {
-  background-color: #ffff99;
+  background-color: green;
 }
 
 .row {
@@ -41,7 +41,7 @@ h1 {
 }
 
 div.section {
-  background: gray;
+  background: yellow;
   border: 1px solid black;
   position: relative;
   margin: 10px;
